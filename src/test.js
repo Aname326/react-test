@@ -22,7 +22,8 @@ function Test() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+
+          Gloria is Amazing :)
         </a>
       </header>
     </div>
