@@ -23,9 +23,8 @@ function Test() {
           rel="noopener noreferrer"
         >
 
-          wo zai testing react !!!
+          Gloria is Amazing :)
 
-          this should put this upstream of the main.
         </a>
       </header>
     </div>
