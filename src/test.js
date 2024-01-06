@@ -23,7 +23,7 @@ function Test() {
           rel="noopener noreferrer"
         >
 
-          wo zai testing react !!!
+          Gloria is Amazing :)
         </a>
       </header>
     </div>
