@@ -4,12 +4,13 @@ import './App.css';
 function Test() {
 
 
-
-
-
+  // typically you will write your functions and other code here
 
     
   return (
+
+    // do all css (use tailwind css) styling and html stuff here
+
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
